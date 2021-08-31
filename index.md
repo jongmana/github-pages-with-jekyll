@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to my lab experience"
 ---
 
-I'm glad you are here. I plan to talk about ...
+I'm currently rushing through the github labs, currently the one about github pages.
